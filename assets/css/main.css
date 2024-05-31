@@ -6617,7 +6617,13 @@ iframe {
 
 @media (max-width: 513px) {
   .team-section .container .section-title-area .section-title img {
-    max-width: 300px;
+    max-width: 390px;
+  }
+}
+
+@media (max-width: 400px) {
+  .team-section .container .section-title-area .section-title img {
+    max-width: 350px;
   }
 }
 @media (max-width: 1399px) {
